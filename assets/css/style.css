@@ -87,6 +87,7 @@ main {
     background-color: cadetblue;
     /*Take surplus space to push the footer down*/
     flex: 1 0 auto;
+    margin-top: 87px;
 }
 
 
