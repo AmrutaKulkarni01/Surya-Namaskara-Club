@@ -1,3 +1,6 @@
+ /* Google fonts import */
+@import url('https://fonts.googleapis.com/css2?family=DM+Sans:ital,opsz,wght@0,9..40,100..1000;1,9..40,100..1000&family=DM+Serif+Display:ital@0;1&display=swap');
+
 /* Asterisk wildcard selector to override default styles added by the browser */
 * {
     padding: 0;
@@ -6,29 +9,27 @@
 }
 
 /* General styles*/
-body{
+body {
     min-height: 100vh;
-display: flex;
-flex-direction: column;
+    display: flex;
+    flex-direction: column;    
 }
 
 /*Header*/
-header{
-background-color: blueviolet;
+header {
+    background-color: blueviolet;
 }
 
 
 /*Main Content*/
-main
-{
-background-color: cadetblue;
-/*Take surplus space to push the footer down*/
-flex: 1 0 auto;
+main {
+    background-color: cadetblue;
+    /*Take surplus space to push the footer down*/
+    flex: 1 0 auto;
 }
 
 
 /*Footer*/
-footer
-{
-background-color: burlywood;
+footer {
+    background-color: burlywood;
 }
