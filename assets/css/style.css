@@ -91,8 +91,18 @@
  }
 
  /* Footer */
- footer {
-     background-color: burlywood;
+ #social-networks {
+     text-align: center;
+     display: flex;
+     padding: 20px 0;
+     justify-content: space-evenly;
+     list-style-type: none;
+ }
+
+ #social-networks i {
+    font-size: 160%;
+    color: #3a3a3a;
+    padding: 5%;
  }
 
 
