@@ -41,7 +41,35 @@
 
 
     <!--Main Content-->
-    <main> Main Content </main>
+    <main>
+        <section id="signup">
+            <form action="https://formdump.codeinstitute.net" method="POST" id="signup-form">
+                <fieldset>
+                    <legend>Your details</legend>
+                    <div class="flex gap-20">
+                        <div>
+                            <label for="name-field" class="block-label">Name</label>
+                            <input id="name-field" type="text" name="full_name" placeholder="Your name" required>
+                        </div>
+                        <div>
+                            <label for="email-field" class="block-label">Email</label>
+                            <input id="email-field" type="email" name="email" placeholder="Your email" required>
+                        </div>
+                        <div>
+                            <label for="age" class="block-label">Age</label>
+                            <select id="age" name="age" required>
+                                <option value="under-30">Under 30</option>
+                                <option value="30-50">30-50</option>
+                                <option value="50+">50+</option>
+                            </select>
+                        </div>
+                    </div>
+                </fieldset>
+                <button type="submit" class="join-button">Join the club!</button>
+
+            </form>
+        </section>
+    </main>
 
     <!--Footer-->
     <footer>
