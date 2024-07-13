@@ -31,11 +31,12 @@
      text-align: center;
  }
 
- #home {
-  
+ #home p{
+  color: #ff3c00e3;
+  font-size: 17px;
 }
 
-.page-header
+.page-header 
 {
     
 }
