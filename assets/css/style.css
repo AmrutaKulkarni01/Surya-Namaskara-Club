@@ -57,6 +57,15 @@
      margin-bottom: 1em;
  }
 
+ info li
+ {
+    font-family: "DM Sans", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 100;
+    font-style: normal;  
+    list-style: square;
+ }
+
  .active {
      border-bottom: 1px solid #3a3a3a;
  }
@@ -98,6 +107,22 @@
      display: flex;
      flex-direction: column;
      background-position: 75%;
+     padding: 3rem 0;
+ }
+
+ #meaning-box
+ {
+    background-color: darkorange;
+ }
+
+ #Benefits-box
+ {
+    background-color: #ff3c00e3;
+ }
+
+ #Why-to-join-box
+ {
+    background-color: darkorange;
  }
 
  #signup
