@@ -125,6 +125,35 @@
     background-color: darkorange;
  }
 
+ #contact
+ {
+    background-color: #ffbe00;
+    text-align: center;
+    text-decoration: solid underline;
+ }
+
+ #Open-Times-Box
+{
+    float: left;
+    margin-left: 5vw;
+}
+
+ #Phone-and-Email-Box
+{
+    float: right;    
+    text-align: right;
+    margin-right: 5vw;
+    
+}
+
+ #Address-Box
+{
+    margin-top: 0.5vh;
+    align-content: center;
+    text-align: center;
+    background-color: skyblue;
+}
+
  #signup
  {
     background-image: url("../images/woman-practicing-yoga-sunset.avif");    
@@ -211,6 +240,11 @@
 
      main {
          margin-top: 150px;
+     }
+
+     .text-center
+     {
+        text-align: center;
      }
  }
 
