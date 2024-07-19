@@ -100,7 +100,7 @@
 
  /* Main Content */
  main {
-     background-color: cadetblue;
+     background-color: skyblue;
      /* Take surplus space to push the footer down */
      flex: 1 0 auto;
      margin-top: 86.4px;
