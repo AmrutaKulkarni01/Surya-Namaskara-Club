@@ -31,15 +31,10 @@
      text-align: center;
  }
 
- #home p{
-  color: #ff3c00e3;
-  font-size: 17px;
-}
-
-.page-header 
-{
-    
-}
+ #home p {
+     color: #ff3c00e3;
+     font-size: 17px;
+ }
 
  header a {
      text-decoration: none;
@@ -57,13 +52,12 @@
      margin-bottom: 1em;
  }
 
- info li
- {
-    font-family: "DM Sans", sans-serif;
-    font-optical-sizing: auto;
-    font-weight: 100;
-    font-style: normal;  
-    list-style: square;
+ info li {
+     font-family: "DM Sans", sans-serif;
+     font-optical-sizing: auto;
+     font-weight: 100;
+     font-style: normal;
+     list-style: square;
  }
 
  .active {
@@ -110,87 +104,122 @@
      padding: 3rem 0;
  }
 
- #meaning-box
- {
-    background-color: darkorange;
+ #meaning-box {
+     background-color: darkorange;
  }
 
- #Benefits-box
- {
-    background-color: #ff3c00e3;
+ #Benefits-box {
+     background-color: #ff3c00e3;
  }
 
- #Why-to-join-box
- {
-    background-color: darkorange;
+ #Why-to-join-box {
+     background-color: darkorange;
  }
 
- #contact
- {
-    background-color: #ffbe00;
-    text-align: center;
-    text-decoration: solid underline;
+ #contact {
+     background-color: #ffbe00;
+     text-align: center;
+     text-decoration: solid underline;
  }
 
- #Open-Times-Box
-{
-    float: left;
-    margin-left: 5vw;
-}
+ #Open-Times-Box {
+     float: left;
+     margin-left: 5vw;
+ }
 
-#Posture-box
-{
-    align-self: center;
-}
+ #Posture-box {
+     align-self: center;
+ }
 
- #Phone-and-Email-Box
-{
-    float: right;    
-    text-align: right;
-    margin-right: 5vw;
-    
-}
+ #Phone-and-Email-Box {
+     float: right;
+     text-align: right;
+     margin-right: 5vw;
+ }
 
- #Address-Box
-{
-    margin-top: 0.5vh;
-    align-content: center;
-    text-align: center;
-    background-color: skyblue;
-}
+ #Address-Box {
+     margin-top: 0.5vh;
+     align-content: center;
+     text-align: center;
+     background-color: skyblue;
+ }
 
- #signup
+ #container
  {
-    background-image: url("../images/woman-practicing-yoga-sunset.avif");    
-    background-size: cover;
-    flex-grow: 1;
-    padding: 20px 10% 0 10%;
+    align-items: center;
+ }
+
+ div.gallery {
+     border: 1px solid #ccc;
+ }
+
+ div.gallery:hover {
+     border: 1px solid #777;
+ }
+
+ div.gallery img {
+     width: 100%;
+     height: auto;
+ }
+
+ div.desc {
+     padding: 15px;
+     text-align: center;
+ }
+
+ .responsive {
+    padding: 0 6px;  
+    width: 100%;
+    float: left;     
+ }
+
+ /* Media query: tablets and larger (768px and up) */
+ @media only screen and (min-width: 768px) {
+     .responsive {
+         width: 49.99999%;
+         margin: 6px 0;         
+     }
+     
+ }
+
+ /* Media query: laptops and larger (992px and up) */
+ @media only screen and (min-width: 992px) {
+     .responsive {
+         width: 33%;        
+     }
+ }
+
+ #signup {
+     background-image: url("../images/woman-practicing-yoga-sunset.avif");
+     background-size: cover;
+     flex-grow: 1;
+     padding: 20px 10% 0 10%;
  }
 
  #signup-form>h2 {
-    color: #ff3c00e3;
-    margin-bottom: 20px;
-}
+     color: #ff3c00e3;
+     margin-bottom: 20px;
+ }
 
-.text-input {
-    background: transparent;
-    color: #ff3c00e3;
-    width: 100%;
-    height: 25px;
-    margin: 5px 0 20px 0;
-    border: 1px solid #fafafa;
-    border-radius: 2px;
-    padding: 0 5px;
-}
+ .text-input {
+     background: transparent;
+     color: #ff3c00e3;
+     width: 100%;
+     height: 25px;
+     margin: 5px 0 20px 0;
+     border: 1px solid #fafafa;
+     border-radius: 2px;
+     padding: 0 5px;
+ }
 
-.join-button {
-    margin-top: 40px;
-    border-radius: 2px;
-    padding: 15px 32px;
-    font-size: 100%;
-    background-color: #ff3c00e3;
-    color: #000000;
-}
+ .join-button {
+     margin-top: 40px;
+     border-radius: 2px;
+     padding: 15px 32px;
+     font-size: 100%;
+     background-color: #ff3c00e3;
+     color: #000000;
+ }
 
 
  #nav-toggle:checked~nav {
@@ -207,9 +236,9 @@
  }
 
  #social-networks i {
-    font-size: 160%;
-    color: #3a3a3a;
-    padding: 5%;
+     font-size: 160%;
+     color: #3a3a3a;
+     padding: 5%;
  }
 
 
@@ -247,38 +276,38 @@
          margin-top: 150px;
      }
 
-     .text-center
-     {
-        text-align: center;
+     .text-center {
+         text-align: center;
      }
  }
 
  /* Media query: laptops and desktops (992px and up) */
  @media screen and (min-width: 992px) {
 
-    main {
-        margin-top: 75px;
-    }
+     main {
+         margin-top: 75px;
+     }
+
      #menu a:hover {
          border-bottom: 1px solid #3a3a3a;
      }
 
-      /* Form */
-    #signup {
-        background-position: center;
-        position: relative;
-    }
+     /* Form */
+     #signup {
+         background-position: center;
+         position: relative;
+     }
 
-    #signup-form {
-        max-width: 400px;
-        position: absolute;
-        left: 10%;
-        top: 150px;
-    }
-    
-    .join-button:hover {
-        background-color: #fafafa;
-        color: #454b1b;
-    }
-     
+     #signup-form {
+         max-width: 400px;
+         position: absolute;
+         left: 10%;
+         top: 150px;
+     }
+
+     .join-button:hover {
+         background-color: #fafafa;
+         color: #454b1b;
+     }
+
  }
