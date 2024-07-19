@@ -138,6 +138,11 @@
     margin-left: 5vw;
 }
 
+#Posture-box
+{
+    align-self: center;
+}
+
  #Phone-and-Email-Box
 {
     float: right;    
