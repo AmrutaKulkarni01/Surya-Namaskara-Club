@@ -18,7 +18,7 @@ There is also a quick sign up form, so if the users of the website find it inter
     -  At the top left in the header section, there is a name of the club 'Surya Namaskara Club' displayed as logo, that will take the user to the home page when clicked.   
     -   Below the logo a small tagline is displayed -'Partner in your journey towards happy, healthy and balanced life.' This tagline will make the new user of the website feel curious to know more about the club..
 
-![Screenshot of the header containing club logo and navigation bar](/assets/images/header-image.png)
+        ![Screenshot of the header containing club logo and navigation bar](/assets/images/header-image.png)
 
 * The Home page
 
@@ -27,8 +27,13 @@ There is also a quick sign up form, so if the users of the website find it inter
     - Next comes contact section, displaying timing and days of the ongoing batches, phone number and the email id, where they could contact to collect more information.
     - A picture showing sequence of 12 asanas is displayed, which are performed as a part of one surynamaskara. 
 
-![Screenshot of a picture showing sequence of 12 asanas](/assets/images/sequence-of-asanas.png)
+        ![Screenshot of a picture showing sequence of 12 asanas](/assets/images/sequence-of-asanas.png)
 
-    -In the next section address of the club is displayed and a map showing exact location of the club.
+    - In the next section address of the club is displayed and a map showing exact location of the club.
 
-![Screenshot of a picture showing address of club and map](/assets/images/map.png)
+        ![Screenshot of a picture showing address of club and map](/assets/images/map.png)
+
+* The Footer
+    -   The footer section includes relevant links to Facebook, Twitter, Youtube  and Instagram.
+    -   The links will open in a new tab and they aspire to give the user more motivation to take next step towards healthy life.
+![Screenshot of the Footer with social media links](/assets/images/footer.png)
