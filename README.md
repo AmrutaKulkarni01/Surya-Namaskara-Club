@@ -37,3 +37,18 @@ There is also a quick sign up form, so if the users of the website find it inter
     -   The footer section includes relevant links to Facebook, Twitter, Youtube  and Instagram.
     -   The links will open in a new tab and they aspire to give the user more motivation to take next step towards healthy life.
 ![Screenshot of the Footer with social media links](/assets/images/footer.png)
+
+* The Gallery page
+    -   On the Gallery page user can view some photos of a group performaing suryanamaskara and other asanas(postures). The photos are taken inside the club, so that user will get idea about the interior of the club and what kind of activities are performed there.       
+        ![Screenshot 1 of a gallery showing different yoga poses](/assets/images/Yoga-poses1.png)
+        ![Screenshot 2 of a gallery showing different yoga poses](/assets/images/Yoga-poses2.png)
+
+* The Sign Up page
+    -   Finally sign up page is there, where a contact form is provided. On the form user can provide their basic information like name, email address etc and could join the club on just click of a button.
+
+### Features left to implement
+    
+    - I would like to add a page displaying feedback from some former and current students of the club. 
+    I will put their image and their thoughts about the club and what positive changes on health and overall life they felt, after starting suryanamaskara will be shown as a quoted text.
+
+    After reading it, users of the website will surely be encouraged to join the club.
