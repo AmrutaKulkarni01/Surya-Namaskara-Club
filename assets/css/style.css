@@ -144,6 +144,11 @@
      background-color: skyblue;
  }
 
+ #map
+ {
+    align-self: center;
+ }
+
  #container
  {
     align-items: center;
@@ -178,15 +183,14 @@
      .responsive {
          width: 49.99999%;
          margin: 6px 0;         
-     }
-     
+     }     
  }
 
  /* Media query: laptops and larger (992px and up) */
  @media only screen and (min-width: 992px) {
      .responsive {
          width: 33%;        
-     }
+     }   
  }
 
  #signup {
