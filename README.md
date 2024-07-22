@@ -52,3 +52,23 @@ There is also a quick sign up form, so if the users of the website find it inter
     I will put their image and their thoughts about the club and what positive changes on health and overall life they felt, after starting suryanamaskara will be shown as a quoted text.
 
     After reading it, users of the website will surely be encouraged to join the club.
+
+## Testing
+-   Accessibility
+    -   run the pages through Lighthouse 
+    
+    ![Screenshot of Lighthouse result]
+ 
+-  
+-   I tested and confirmed that all internal links are working and redirecting the user between the pages.
+-   I tested that all external links, to social media sites, are woking and opening in a separate tab.
+-   I tested and confirmed that the contact form works, all fields are required, the radio buttons are required (one of them), the email field only accepts email address, and the submit button link works:
+![Screenshot of the Code institute page that is displayed when submitting the form]
+    
+-   HTML
+    -   No errors found when running the code through the [W3C HTML Validator](https://validator.w3.org/)
+![Screenshot of the HTML Validator result](/assets/images/html_validator.png)
+
+-   CSS
+    -   No errors found when running the code through the [W3C CSS Validator](https://jigsaw.w3.org/css-validator/) 
+![Screenshot of the CSS validator result](/assets/images/css_validator.png)    
