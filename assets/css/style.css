@@ -52,6 +52,11 @@
      margin-bottom: 1em;
  }
 
+ h2, h3, h4
+ {
+    font-family: "DM Serif Display", serif;
+ }
+
  info li {
      font-family: "DM Sans", sans-serif;
      font-optical-sizing: auto;
@@ -88,8 +93,7 @@
      font-family: "DM Serif Display", serif;
      text-transform: uppercase;
      letter-spacing: 2px;
-     text-align: center;
-     /*   color: #252525;*/
+     text-align: center;   
  }
 
  /* Main Content */
