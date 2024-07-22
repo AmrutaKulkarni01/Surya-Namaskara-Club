@@ -63,7 +63,7 @@ There is also a quick sign up form, so if the users of the website find it inter
 -   I tested and confirmed that all internal links are working and redirecting the user between the pages.
 -   I tested that all external links, to social media sites, are woking and opening in a separate tab.
 -   I tested and confirmed that the contact form works, all fields are required, the radio buttons are required (one of them), the email field only accepts email address, and the submit button link works:
-![Screenshot of the Code institute page that is displayed when submitting the form]
+![Screenshot of the Code institute page that is displayed when submitting the form](/assets/images/code_institute_form.png)
     
 -   HTML
     -   No errors found when running the code through the [W3C HTML Validator](https://validator.w3.org/)
