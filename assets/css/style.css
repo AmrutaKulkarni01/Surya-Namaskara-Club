@@ -52,9 +52,10 @@
      margin-bottom: 1em;
  }
 
- h2, h3, h4
- {
-    font-family: "DM Serif Display", serif;
+ h2,
+ h3,
+ h4 {
+     font-family: "DM Serif Display", serif;
  }
 
  info li {
@@ -93,7 +94,7 @@
      font-family: "DM Serif Display", serif;
      text-transform: uppercase;
      letter-spacing: 2px;
-     text-align: center;   
+     text-align: center;
  }
 
  /* Main Content */
@@ -148,15 +149,13 @@
      background-color: skyblue;
  }
 
- #map
- {
-    text-align: center;
-    align-self: center;
+ #map {
+     text-align: center;
+     align-self: center;
  }
 
- #container
- {
-    align-items: center;
+ #container {
+     align-items: center;
  }
 
  div.gallery {
@@ -178,24 +177,24 @@
  }
 
  .responsive {
-    padding: 0 6px;  
-    width: 100%;
-    float: left;     
+     padding: 0 6px;
+     width: 100%;
+     float: left;
  }
 
  /* Media query: tablets and larger (768px and up) */
  @media only screen and (min-width: 768px) {
      .responsive {
          width: 49.99999%;
-         margin: 6px 0;         
-     }     
+         margin: 6px 0;
+     }
  }
 
  /* Media query: laptops and larger (992px and up) */
  @media only screen and (min-width: 992px) {
      .responsive {
-         width: 33%;        
-     }   
+         width: 33%;
+     }
  }
 
  #signup {
@@ -309,7 +308,7 @@
          max-width: 400px;
          position: absolute;
          left: 15vw;
-         top: 150px;      
+         top: 150px;
      }
 
      .join-button:hover {
