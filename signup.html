@@ -1,5 +1,6 @@
 <!DOCTYPE html>
 <html lang="en">
+
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
@@ -18,83 +19,91 @@
     <!--stylesheet-->
     <link rel="stylesheet" href="assets/css/style.css">
 </head>
+
 <body>
-  <div class="full-wrap">
-    <!--Header-->
-    <header>
-        <a href="index.html">
-            <h1 id="logo">Surya Namaskara Club</h1>
-            <p>Partner in your journey towards happy, healthy and balanced life.</p>
-        </a>
-        <input type="checkbox" id="nav-toggle" name="nav-toggle">
-        <label for="nav-toggle" class="nav-toggle-label"><i class="fa-solid fa-bars"></i></label>
-        <nav>
-            <ul id="menu">
-                <li><a href="index.html">Home</a></li>
-                <li><a href="gallery.html">Gallery</a></li>
-                <li><a href="signup.html" class="active">Sign Up</a></li>
-            </ul>
-        </nav>
-    </header>
-    <!--Main Content-->
-    <main>
-        <section id="signup">
-            <form action="https://formdump.codeinstitute.net" method="POST" id="signup-form">
-                <!--  <fieldset>
+    <div class="full-wrap">
+        <!--Header-->
+        <header>
+            <a href="index.html">
+                <h1 id="logo">Surya Namaskara Club</h1>
+                <p>Partner in your journey towards happy, healthy and balanced life.</p>
+            </a>
+            <input type="checkbox" id="nav-toggle" name="nav-toggle">
+            <label for="nav-toggle" class="nav-toggle-label"><i class="fa-solid fa-bars"></i></label>
+            <nav>
+                <ul id="menu">
+                    <li><a href="index.html">Home</a></li>
+                    <li><a href="gallery.html">Gallery</a></li>
+                    <li><a href="signup.html" class="active">Sign Up</a></li>
+                </ul>
+            </nav>
+        </header>
+        <!--Main Content-->
+        <main>
+            <section id="signup">
+                <div>
+                    <img src="assets/images/downward-dog.jpeg" alt="Lotus Pose" style="width:100%;height:80%;">
+                </div>
+                <div>
+                    <form action="https://formdump.codeinstitute.net" method="POST" id="signup-form">
+                        <!--  <fieldset>
                     <legend>Your details</legend>-->
-                <h2>Please sign up here!</h2>
-                <br>
-                <br>
-                <label for="name-field" class="text-input">Name</label>
-                <input id="name-field" type="text" name="full_name" placeholder="Your name" required>
-                <br>
-                <label for="email-field" class="text-input">Email</label>
-                <input id="email-field" type="email" name="email" placeholder="Your email" required>
-                <br>
-                <label for="age" class="text-input">Age</label>
-                <select id="age" name="age" required>
-                    <option value="under-30">Under 30</option>
-                    <option value="30-50">30-50</option>
-                    <option value="50+">50+</option>
-                </select>
-                <br>
-                <br>
-                <label for="days-preference" class="text-input">Your Preference</label>
-                <div class="radio-button">
-                    <input type="radio" name="days-preference" id="Weekdays" value="Weekdays" required>
-                    <label for="Weekdays">Mon-Fri</label><br>
-                    <input type="radio" name="days-preference" id="Weekend" value="Weekend" required>
-                    <label for="Weekend">Weekend</label><br>
-                    <input type="radio" name="days-preference" id="both" value="both" required checked>
-                    <label for="both">Both</label>
-                </div>       
-                <br>
-                <button type="submit" class="join-button">Join the club!</button>
-            </form>
-        </section>
-    </main>
-    <!--Footer-->
-    <footer>
-        <ul id="social-networks">
-            <li><a href="https://www.facebook.com" target="_blank" rel="noopener"
-                    aria-label="Visit our Facebook page (Opens in a new tab)"><i class="fa-brands fa-facebook"></i></a>
-            </li>
-            <li><a href="https://www.twitter.com" target="_blank" rel="noopener"
-                    aria-label="Visit our Twitter page (Opens in a new tab)"><i
-                        class="fa-brands fa-square-twitter"></i></a>
-            </li>
-            <li><a href="https://www.youtube.com" target="_blank" rel="noopener"
-                    aria-label="Visit our Youtube page (Opens in a new tab)"><i
-                        class="fa-brands fa-square-youtube"></i></a>
-            </li>
-            <li><a href="https://www.instagram.com" target="_blank" rel="noopener"
-                    aria-label="Visit our Instagram page (Opens in a new tab)"><i
-                        class="fa-brands fa-instagram"></i></a>
-            </li>
-        </ul>
-    </footer>
-</div>
+                        <h2>Please sign up here!</h2>
+                        <br>
+                        <br>
+                        <label for="name-field" class="text-input">Name</label>
+                        <input id="name-field" type="text" name="full_name" placeholder="Your name" required>
+                        <br>
+                        <label for="email-field" class="text-input">Email</label>
+                        <input id="email-field" type="email" name="email" placeholder="Your email" required>
+                        <br>
+                        <label for="age" class="text-input">Age</label>
+                        <select id="age" name="age" required>
+                            <option value="under-30">Under 30</option>
+                            <option value="30-50">30-50</option>
+                            <option value="50+">50+</option>
+                        </select>
+                        <br>
+                        <br>
+                        <label for="days-preference" class="text-input">Your Preference</label>
+                        <div class="radio-button">
+                            <input type="radio" name="days-preference" id="Weekdays" value="Weekdays" required>
+                            <label for="Weekdays">Mon-Fri</label><br>
+                            <input type="radio" name="days-preference" id="Weekend" value="Weekend" required>
+                            <label for="Weekend">Weekend</label><br>
+                            <input type="radio" name="days-preference" id="both" value="both" required checked>
+                            <label for="both">Both</label>
+                        </div>
+                        <br>
+                        <button type="submit" class="join-button">Join the club!</button>
+                    </form>
+                </div>               
+            </section>
+        </main>
+        <!--Footer-->
+        <footer>
+            <ul id="social-networks">
+                <li><a href="https://www.facebook.com" target="_blank" rel="noopener"
+                        aria-label="Visit our Facebook page (Opens in a new tab)"><i
+                            class="fa-brands fa-facebook"></i></a>
+                </li>
+                <li><a href="https://www.twitter.com" target="_blank" rel="noopener"
+                        aria-label="Visit our Twitter page (Opens in a new tab)"><i
+                            class="fa-brands fa-square-twitter"></i></a>
+                </li>
+                <li><a href="https://www.youtube.com" target="_blank" rel="noopener"
+                        aria-label="Visit our Youtube page (Opens in a new tab)"><i
+                            class="fa-brands fa-square-youtube"></i></a>
+                </li>
+                <li><a href="https://www.instagram.com" target="_blank" rel="noopener"
+                        aria-label="Visit our Instagram page (Opens in a new tab)"><i
+                            class="fa-brands fa-instagram"></i></a>
+                </li>
+            </ul>
+        </footer>
+    </div>
     <!--Font awesome kit-->
     <script src="https://kit.fontawesome.com/8be64d4d2a.js" crossorigin="anonymous"></script>
 </body>
+
 </html>

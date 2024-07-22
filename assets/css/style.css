@@ -195,7 +195,6 @@
  }
 
  #signup {
-     background-image: url("../images/woman-practicing-yoga-sunset.avif");
      background-size: cover;
      flex-grow: 1;
      padding: 20px 10% 0 10%;
@@ -207,13 +206,12 @@
  }
 
  .text-input {
+     font-size: 20px;
+     font-weight: 800;
      background: transparent;
-     color: #ff3c00e3;
      width: 100%;
      height: 25px;
      margin: 5px 0 20px 0;
-     border: 1px solid #fafafa;
-     border-radius: 2px;
      padding: 0 5px;
  }
 
@@ -306,8 +304,8 @@
      #signup-form {
          max-width: 400px;
          position: absolute;
-         left: 10%;
-         top: 150px;
+         left: 15vw;
+         top: 150px;      
      }
 
      .join-button:hover {
