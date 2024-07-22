@@ -72,3 +72,25 @@ There is also a quick sign up form, so if the users of the website find it inter
 -   CSS
     -   No errors found when running the code through the [W3C CSS Validator](https://jigsaw.w3.org/css-validator/) 
 ![Screenshot of the CSS validator result](/assets/images/css_validator.png)    
+
+## Bugs
+-   
+### Unfixed bugs
+-   No unfixed bugs
+
+## Deployment
+
+### Version Control
+-   The site was created using Gitpod editor and pushed to Github to the remote repository 'Surya-Namaskara-Club'.
+-   Git commands were used throughout the development to push the code to the remote repository. The following git commands were used:
+    -   git add . - to add the files to the staging area before being committed.
+    -   git commit -m "commit message" - to commit changes to the local repository queue that are ready for the final step.
+    -   git push - to push all committed code to the remote repository on Github.
+
+### Deployment to Github pages
+-   The site was deployed to Github pages as follows:
+    -   In the Github repository, I navigated to Settings tab
+    -   From the source section drop-down menu, I selected the Master branch and Save
+    -   Once the Master branch was selected, the page provided the link to the website
+-   The live link: [Surya Namaskara Club](
+https://amrutakulkarni01.github.io/Surya-Namaskara-Club/)
