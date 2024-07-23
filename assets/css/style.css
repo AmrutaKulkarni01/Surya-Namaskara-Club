@@ -31,8 +31,7 @@
      text-align: center;
  }
 
- #home p {
-     color: #ff3c00e3;
+ #home p {  
      font-size: 17px;
  }
 
@@ -109,19 +108,19 @@
  }
 
  #meaning-box {
-     background-color: darkorange;
+     background-color: #FF9270; /* darkorange;*/
  }
 
  #Benefits-box {
-     background-color: #ff3c00e3;
+     background-color: #e7c26f;/* #ff3c00e3;*/
  }
 
  #Why-to-join-box {
-     background-color: darkorange;
+     background-color: #FF9270; /* darkorange;*/
  }
 
  #contact {
-     background-color: #ffbe00;
+     background-color:  #e7c26f;/*#ffbe00;*/
      text-align: center;
      text-decoration: solid underline;
  }
@@ -139,6 +138,10 @@
      float: right;
      text-align: right;
      margin-right: 5vw;
+ }
+
+ .tag{
+    font-weight: bold;
  }
 
  #Address-Box {
