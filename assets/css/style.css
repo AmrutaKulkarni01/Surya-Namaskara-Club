@@ -134,6 +134,11 @@
      align-self: center;
  }
 
+ #Posture-box img {
+    width: 100%;
+    height: auto;
+ }
+
  #Phone-and-Email-Box {
      float: right;
      text-align: right;
