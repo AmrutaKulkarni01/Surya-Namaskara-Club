@@ -211,7 +211,7 @@
  }
 
  #signup-form>h2 {
-     color: #ff3c00e3;
+     color: #000435;
      margin-bottom: 20px;
  }
 
@@ -230,9 +230,14 @@
      border-radius: 2px;
      padding: 15px 32px;
      font-size: 100%;
-     background-color: #ff3c00e3;
-     color: #000000;
+     background-color: #000435;
+     color: #FFFFFF;
  }
+
+ .join-button:hover {
+    background-color: #fafafa;
+    color: #000435;
+}
 
 
  #nav-toggle:checked~nav {
@@ -316,11 +321,6 @@
          position: absolute;
          left: 15vw;
          top: 150px;
-     }
-
-     .join-button:hover {
-         background-color: #fafafa;
-         color: #454b1b;
-     }
+     }     
 
  }
