@@ -111,11 +111,11 @@
      background-color: #FF9270; /* darkorange;*/
  }
 
- #Benefits-box {
+ #benefits-box {
      background-color: #e7c26f;/* #ff3c00e3;*/
  }
 
- #Why-to-join-box {
+ #why-to-join-box {
      background-color: #FF9270; /* darkorange;*/
  }
 
@@ -125,21 +125,21 @@
      text-decoration: solid underline;
  }
 
- #Open-Times-Box {
+ #open-times-box {
      float: left;
      margin-left: 5vw;
  }
 
- #Poster-box {
+ #poster-box {
      align-self: center;
  }
 
- #Poster-box img {
+ #poster-box img {
     width: 100%;
     height: auto;
  }
 
- #Phone-and-Email-Box {
+ #phone-and-email-box {
      float: right;
      text-align: right;
      margin-right: 5vw;
@@ -149,16 +149,11 @@
     font-weight: bold;
  }
 
- #Address-Box {
+ #address-box {
      margin-top: 0.5vh;
      align-content: center;
      text-align: center;
      background-color: skyblue;
- }
-
- #map {
-     text-align: center;
-     align-self: center;
  }
 
  #container {
