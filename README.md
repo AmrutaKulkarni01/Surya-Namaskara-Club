@@ -22,12 +22,12 @@ There is also a quick sign up form, so if the users of the website find it inter
 
 * The Home page
 
-    - This is the opening page, with top section giving information about suryanamaskara. SO the user will get to know what does the name Suryanamaskara means. 
+    - This is the opening page, with top section giving information about suryanamaskara. So the user will get to know what does the name Suryanamaskara means. 
     - Below that user can read benefits of suryanamaskara and why one should join this particular group. This aspires to motivate the user to join the group as a step towards a happy, healthy and balanced life.
     - Next comes contact section, displaying timing and days of the ongoing batches, phone number and the email id, where they could contact to collect more information.
-    - A picture showing sequence of 12 asanas is displayed, which are performed as a part of one surynamaskara. 
+    - A picture showing balancing stones at the beach, taken at the time of a calm sunrise. As suryanamaskara is mostly performed at the time of sunrise, this picture represents the calmness and balance one will experince after performing suryanamaskara..
 
-        ![Screenshot of a picture showing sequence of 12 asanas](/assets/images/sequence-of-asanas.png)
+        ![Screenshot of a picture showing stones balanced on eachother](/assets/images/stones-balance-beach-sunrise-meditation.avif)
 
     - In the next section address of the club is displayed and a map showing exact location of the club.
 
@@ -39,12 +39,13 @@ There is also a quick sign up form, so if the users of the website find it inter
 ![Screenshot of the Footer with social media links](/assets/images/footer.png)
 
 * The Gallery page
-    -   On the Gallery page user can view some photos of a group performaing suryanamaskara and other asanas(postures). The photos are taken inside the club, so that user will get idea about the interior of the club and what kind of activities are performed there.       
+    -   On the Gallery page user can view some photos of a group performaing suryanamaskara and other asanas(postures). The photos are taken inside the club, so that user will get idea about the interior of the club and what kind of activities are performed there. User can read name of the posture below the respective picture.      
         ![Screenshot 1 of a gallery showing different yoga poses](/assets/images/Yoga-poses1.png)
         ![Screenshot 2 of a gallery showing different yoga poses](/assets/images/Yoga-poses2.png)
 
 * The Sign Up page
-    -   Finally sign up page is there, where a contact form is provided. On the form user can provide their basic information like name, email address etc and could join the club on just click of a button.
+    -   Finally sign up page is there, where a contact form is provided. On the form user can provide their basic information like name, email address, age etc, and could join the club on just click of a button. One can also provide their preference in terms of days, like weekdays or weekend, when they could attend the practice.
+        ![Screenshot of a sign up form](/assets/images/signup-page.png)
 
 ### Features left to implement
     
