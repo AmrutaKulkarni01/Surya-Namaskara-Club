@@ -1,4 +1,4 @@
- /* Google fonts import */
+/* Google fonts import */
  @import url('https://fonts.googleapis.com/css2?family=DM+Sans:ital,opsz,wght@0,9..40,100..1000;1,9..40,100..1000&family=DM+Serif+Display:ital@0;1&display=swap');
 
  /* Asterisk wildcard selector to override default styles added by the browser */
@@ -15,6 +15,8 @@
      flex-direction: column;
      font-family: "DM Sans", sans-serif;
      color: #3a3a3a;
+
+     background-color: #3a3a3a;
  }
 
  /* Header */
@@ -29,6 +31,14 @@
      justify-content: space-between;
      align-items: baseline;
      text-align: center;
+ }
+
+
+ 
+ .full-wrap {
+    width: 100%;
+    max-width: 1100px;
+    margin: 0 auto;
  }
 
  #home p {  
@@ -107,16 +117,20 @@
      padding: 3rem 0;
  }
 
- #meaning-box {
-     background-color: #FF9270; /* darkorange;*/
+ .reasons {
+    padding: 1rem;
  }
 
- #benefits-box {
-     background-color: #e7c26f;/* #ff3c00e3;*/
+ .lightorange {
+    background-color: #FF9270; 
  }
 
- #why-to-join-box {
-     background-color: #FF9270; /* darkorange;*/
+ .light-mustard {
+    background-color: #e7c26f;
+ }
+
+ .list-no-dot {
+    list-style: none;
  }
 
  #contact {
@@ -250,7 +264,7 @@
 
  #social-networks i {
      font-size: 160%;
-     color: #3a3a3a;
+     color: #FFFFFF;
      padding: 5%;
  }
 
