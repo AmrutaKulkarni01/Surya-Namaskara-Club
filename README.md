@@ -73,7 +73,7 @@ There is also a quick sign up form, so if the users of the website find it inter
 ![Screenshot of the Code institute page that is displayed when submitting the form](/assets/images/code_institute_form.png)
     
 -   HTML
-    -   No errors found when running the code through the [W3C HTML Validator](https://validator.w3.org/)
+    -   No errors found when running the code through the [W3C HTML Validator](https://validator.w3.org/)    
 ![Screenshot of the HTML Validator result](/assets/images/html_validator.png)
 
 -   CSS
@@ -108,3 +108,15 @@ https://amrutakulkarni01.github.io/Surya-Namaskara-Club/)
 -   Click on HTTPS and copy the repository link
 -   Open the IDE of your choice and and paste the copied git url into the IDE terminal
 -   The project is now created as a local clone
+
+
+## Credits
+-   A special thanks to my Mentor for the support and answering all my Questions!
+### Content
+-   The icons in the footer were taken from [Font Awesome](https://fontawesome.com/)   
+The social media links to Facebook and Instagram are the real ones this company is using.
+-   The Favicon in the Title of the page was taken from [Favicon](https://iconscout.com/icons/yoga)    
+-   I took inspiration from the Love Running project to create the header, footer and contact page.
+### Media
+-   The 'balancing stones' image on the home page was taken from [freepik](https://www.freepik.com/)
+-   The images in the on the gallery page and the signup page were taken from [Pexels](https://www.pexels.com/)
