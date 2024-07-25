@@ -231,6 +231,10 @@ div.desc {
     padding: 0 5px;
 }
 
+.radio-buttons{
+    margin-bottom: 10px;
+}
+
 .join-button {
     margin-top: 40px;
     border-radius: 2px;
@@ -264,7 +268,6 @@ div.desc {
     color: #FFFFFF;
     padding: 5%;
 }
-
 
 /* Media query: tablets and larger (356px and up) */
 
@@ -342,5 +345,4 @@ div.desc {
         background-color: rgba(222, 222, 222, 0.8);
         padding: 1rem;
     }
-
 }
