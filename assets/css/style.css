@@ -157,10 +157,9 @@ main {
 }
 
 #address-box {
-    margin-top: 0.5vh;
-    align-content: center;
     text-align: center;
-    background-color: skyblue;
+    padding-top: 20px;
+    background-color: #e7c26f
 }
 
 #container {
