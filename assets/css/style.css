@@ -235,6 +235,10 @@ div.desc {
     margin-bottom: 10px;
 }
 
+.radio-button{
+    border: none;
+}
+
 .join-button {
     margin-top: 40px;
     border-radius: 2px;
