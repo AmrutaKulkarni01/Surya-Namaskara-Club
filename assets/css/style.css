@@ -331,6 +331,8 @@ div.desc {
         position: absolute;
         left: 15vw;
         top: 150px;
+        background-color: rgba(222, 222, 222, 0.8);
+        padding: 1rem;
     }
 
 }
