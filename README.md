@@ -49,6 +49,8 @@ There is also a quick sign up form, so if the users of the website find it inter
 
 * The Sign Up page
     -   Finally sign up page is there, where a contact form is provided. On the form user can provide their basic information like name, email address, age etc, and could join the club on just click of a button. One can also provide their preference in terms of days, like weekdays or weekend, when they could attend the practice.
+    -  Picture of downward dog is displayed in the background.
+
         ![Screenshot of a sign up form](/assets/images/signup-page.png)
 
 ### Features left to implement
