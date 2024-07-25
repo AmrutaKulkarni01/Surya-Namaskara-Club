@@ -1,7 +1,7 @@
 # Surya Namaskara Club
 The Surya Namaskara Club website is a webiste which provides information about a club located in Ruesselsheim, Germany. The website tells that the club is for everyone who is looking for a way to achieve happy, healthy and balanced life, irrespective of the gender or age.
 
-Users of this website will be able to find some basic information about the Suryanamaskara and benefits of doing the same. It provides information about the ongoing batches-(time and days), and address of the club along with a map showing exact location.
+Users of this website will be able to find some basic information about the Suryanamaskara and benefits of doing the same. It provides information about the ongoing batches-(time and days), contact details (phone number and email address) and address of the club.
 There are some photos included, so that the users will get idea about interior of the club and what kind of activities are performed there.  
 
 There is also a quick sign up form, so if the users of the website find it interesting, they can easily enroll for a batch online.The site is responsive for all screen sizes.
@@ -10,7 +10,7 @@ There is also a quick sign up form, so if the users of the website find it inter
 
 ## Features
 * Navigation Bar
-    -   Featured at the top of all three pages, the navigation links are situated to the right. 
+    -  Featured at the top of all three pages, the navigation links are situated to the right. 
     -  On larger screens they show the text; Home, Gallery and Sign Up. On smaller screens, such as mobiles, the navigation links are shown in the form of a burger-icon that expands when you click it.
 
 
@@ -23,15 +23,16 @@ There is also a quick sign up form, so if the users of the website find it inter
 * The Home page
 
     - This is the opening page, with top section giving information about suryanamaskara. So the user will get to know what does the name Suryanamaskara means. 
-    - Below that user can read benefits of suryanamaskara and why one should join this particular group. This aspires to motivate the user to join the group as a step towards a happy, healthy and balanced life.
-    - Next comes contact section, displaying timing and days of the ongoing batches, phone number and the email id, where they could contact to collect more information.
+    - Below that user can read benefits of suryanamaskara and why one should join this particular group. This aspires to motivate the user to join the group as a step towards a happy, healthy and balanced life.    
     - A picture showing balancing stones at the beach, taken at the time of a calm sunrise. As suryanamaskara is mostly performed at the time of sunrise, this picture represents the calmness and balance one will experince after performing suryanamaskara..
 
         ![Screenshot of a picture showing stones balanced on eachother](/assets/images/stones-balance-beach-sunrise-meditation.avif)
 
-    - In the next section address of the club is displayed and a map showing exact location of the club.
+    - Next comes contact section, displaying timing and days of the ongoing batches, phone number and the email id, where they could contact to collect more information.
 
-        ![Screenshot of a picture showing address of club and map](/assets/images/map.png)
+    - Then address of the club is displayed.
+
+        ![Screenshot of a picture showing address of club and map](/assets/images/contact-details.png)
 
 * The Footer
     -   The footer section includes relevant links to Facebook, Twitter, Youtube  and Instagram.
@@ -95,3 +96,10 @@ There is also a quick sign up form, so if the users of the website find it inter
     -   Once the Master branch was selected, the page provided the link to the website
 -   The live link: [Surya Namaskara Club](
 https://amrutakulkarni01.github.io/Surya-Namaskara-Club/)
+
+### Cloning of the Repository Code locally
+-   Go to the Github repository that you want to clone
+-   Click on the Code button located above all the project files
+-   Click on HTTPS and copy the repository link
+-   Open the IDE of your choice and and paste the copied git url into the IDE terminal
+-   The project is now created as a local clone
