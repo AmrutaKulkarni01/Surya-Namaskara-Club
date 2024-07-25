@@ -24,7 +24,10 @@ There is also a quick sign up form, so if the users of the website find it inter
 
     - This is the opening page, with top section giving information about suryanamaskara. So the user will get to know what does the name Suryanamaskara means. 
     - Below that user can read benefits of suryanamaskara and why one should join this particular group. This aspires to motivate the user to join the group as a step towards a happy, healthy and balanced life.    
-    - A picture showing balancing stones at the beach, taken at the time of a calm sunrise. As suryanamaskara is mostly performed at the time of sunrise, this picture represents the calmness and balance one will experince after performing suryanamaskara..
+
+        ![Screenshot of the info section on home page](/assets/images/home-page-info-section.png)
+
+    - Below the info section a picture showing balancing stones at the beach, taken at the time of a calm sunrise. As suryanamaskara is mostly performed at the time of sunrise, this picture represents the calmness and balance one will experince after performing suryanamaskara..
 
         ![Screenshot of a picture showing stones balanced on eachother](/assets/images/stones-balance-beach-sunrise-meditation.avif)
 
@@ -41,8 +44,8 @@ There is also a quick sign up form, so if the users of the website find it inter
 
 * The Gallery page
     -   On the Gallery page user can view some photos of a group performaing suryanamaskara and other asanas(postures). The photos are taken inside the club, so that user will get idea about the interior of the club and what kind of activities are performed there. User can read name of the posture below the respective picture.      
-        ![Screenshot 1 of a gallery showing different yoga poses](/assets/images/Yoga-poses1.png)
-        ![Screenshot 2 of a gallery showing different yoga poses](/assets/images/Yoga-poses2.png)
+        ![Screenshot 1 of a gallery showing different yoga poses](/assets/images/yoga-poses1.png)
+        ![Screenshot 2 of a gallery showing different yoga poses](/assets/images/yoga-poses2.png)
 
 * The Sign Up page
     -   Finally sign up page is there, where a contact form is provided. On the form user can provide their basic information like name, email address, age etc, and could join the club on just click of a button. One can also provide their preference in terms of days, like weekdays or weekend, when they could attend the practice.
@@ -57,14 +60,14 @@ There is also a quick sign up form, so if the users of the website find it inter
 
 ## Testing
 -   Accessibility
-    -   run the pages through Lighthouse 
+    -   I ran the pages through Lighthouse and confirmed that the colors and fonts are easy to read and that the site is accessible.
     
-    ![Screenshot of Lighthouse result]
+     ![Screenshot of Lighthouse result](/assets/images/lighthouse_score.jpeg)
  
--  
+-   I tested and confirmed that the page works in different browsers; Chrome, Edge and Safari.
 -   I tested and confirmed that all internal links are working and redirecting the user between the pages.
 -   I tested that all external links, to social media sites, are woking and opening in a separate tab.
--   I tested and confirmed that the contact form works, all fields are required, the radio buttons are required (one of them), the email field only accepts email address, and the submit button link works:
+-   I tested and confirmed that the sign up form works, all fields are required, the radio buttons are required (one of them), the email field only accepts email address, and the submit button link works:
 ![Screenshot of the Code institute page that is displayed when submitting the form](/assets/images/code_institute_form.png)
     
 -   HTML
