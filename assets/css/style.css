@@ -103,7 +103,7 @@ main {
     background-color: skyblue;
     /* Take surplus space to push the footer down */
     flex: 1 0 auto;
-    margin-top: 86.4px;
+    margin-top: 150px;
     display: flex;
     flex-direction: column;
     background-position: 75%;
@@ -266,6 +266,24 @@ div.desc {
 }
 
 
+/* Media query: tablets and larger (356px and up) */
+
+@media only screen and (min-width: 356px) {
+
+    main {
+        margin-top: 90px;
+    }
+}
+
+/* Media query: tablets and larger (466px and up) */
+
+@media only screen and (min-width: 466px) {
+
+    main {
+        margin-top: 46px;
+    }
+}
+
 /* Media query: tablets and larger (768px and up) */
 @media screen and (min-width: 768px) {
 
@@ -290,16 +308,6 @@ div.desc {
         display: none;
     }
 
-    #logo {
-        font-size: 280%;
-        line-height: 75px;
-        margin: 0 0.5rem;
-    }
-
-    main {
-        margin-top: 150px;
-    }
-
     .text-center {
         text-align: center;
     }
@@ -313,7 +321,7 @@ div.desc {
     }
 
     main {
-        margin-top: 75px;
+        margin-top: 30px;
     }
 
     #menu a:hover {
