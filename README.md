@@ -65,7 +65,7 @@ There is also a quick sign up form, so if the users of the website find it inter
     
      ![Screenshot of Lighthouse result](/assets/images/lighthouse_score.jpeg)
  
--   I tested and confirmed that the website works in different browsers; e.g. Chrome, Edge.
+-   I tested and confirmed that the website works in different browsers; e.g. Chrome, Edge, Samsung Internet.
 -   As mentioned earlier, the site is tested on different screen sizes and is responsive for all screen sizes.
 -   I tested and confirmed that all internal links are working and redirecting the user between the pages.
 -   I tested that all external links, to social media sites, are woking and opening in a separate tab.
@@ -82,6 +82,7 @@ There is also a quick sign up form, so if the users of the website find it inter
 
 ## Bugs
 -   I was getting error 'A \<th\>(table header) contains no text' at the Open-times table. I fixed this bug by replacing the empty \<th\> elements with \<td\> elements.
+-   There was an error as radio buttons in the signup form were not grouped together. I fixed this bug by adding the radio buttons in a fieldset. Also added legend.
 ### Unfixed bugs
 -   No unfixed bugs
 
@@ -108,7 +109,6 @@ https://amrutakulkarni01.github.io/Surya-Namaskara-Club/)
 -   Click on HTTPS and copy the repository link
 -   Open the IDE of your choice and and paste the copied git url into the IDE terminal
 -   The project is now created as a local clone
-
 
 ## Credits
 -   A special thanks to my Mentor for the support and answering all my Questions!
