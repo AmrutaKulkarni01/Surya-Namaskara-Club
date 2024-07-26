@@ -53,9 +53,8 @@ There is also a quick sign up form, so if the users of the website find it inter
 
         ![Screenshot of a sign up form](/assets/images/signup-page.png)
 
-### Features left to implement
-    
-    - I would like to add a page displaying feedback from some former and current students of the club. 
+### Features left to implement    
+- I would like to add a page displaying feedback from some former and current students of the club. 
     I will put their image and their thoughts about the club and what positive changes on health and overall life they felt, after starting suryanamaskara will be shown as a quoted text.
 
     After reading it, users of the website will surely be encouraged to join the club.
@@ -82,7 +81,7 @@ There is also a quick sign up form, so if the users of the website find it inter
 ![Screenshot of the CSS validator result](/assets/images/css_validator.png)    
 
 ## Bugs
--   
+-   I was getting error 'A <th>(table header) contains no text' at the Open-times table. I fixed this bug by replacing the empty <th> elements with <td> elements.
 ### Unfixed bugs
 -   No unfixed bugs
 
