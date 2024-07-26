@@ -81,7 +81,7 @@ There is also a quick sign up form, so if the users of the website find it inter
 ![Screenshot of the CSS validator result](/assets/images/css_validator.png)    
 
 ## Bugs
--   I was getting error 'A <th>(table header) contains no text' at the Open-times table. I fixed this bug by replacing the empty <th> elements with <td> elements.
+-   I was getting error 'A \<th\>(table header) contains no text' at the Open-times table. I fixed this bug by replacing the empty \<th\> elements with \<td\> elements.
 ### Unfixed bugs
 -   No unfixed bugs
 
