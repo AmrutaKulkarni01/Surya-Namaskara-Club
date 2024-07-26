@@ -110,6 +110,12 @@ https://amrutakulkarni01.github.io/Surya-Namaskara-Club/)
 -   Open the IDE of your choice and and paste the copied git url into the IDE terminal
 -   The project is now created as a local clone
 
+## Wireframes
+-   The site was developed with the Mobile-first method. The wireframes were therefore drawn with that thought in mind, and created with [Figma](https://www.figma.com/). 
+First picture: Home page, Second picture: Gallery page, Third picture: Signup page.
+
+![Home page wireframe](/assets/images/wireframe_home.png)  ![Gallery page wireframe](/assets/images/wireframe_gallery.png) ![Signup page wireframe](/assets/images/wireframe_signup.png)
+
 ## Credits
 -   A special thanks to my Mentor for the support and answering all my Questions!
 ### Content
